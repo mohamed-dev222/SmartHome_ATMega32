@@ -10,8 +10,8 @@
 #ifndef DIO_H_
 #define DIO_H_
 
-#include "././LIP/STD_TYPES.h"
-#include "././LIP/BIT_MATH.h"
+#include "././LIB/STD_TYPES.h"
+#include "././LIB/BIT_MATH.h"
 #include "DIO_cfg.h"
 
 /*==============================================================================

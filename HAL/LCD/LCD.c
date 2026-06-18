@@ -6,13 +6,13 @@
  * @date 2026
  */
 
-#include "././LIP/STD_TYPES.h"
-#include "././LIP/BIT_MATH.h"
-#include "../../MCAL_/DIO/DIO.h"
-#include "CLCD_cfg.h"
-#include "CLCD.h"
-#include "CLCD_extrachar.h"
-#include "CLCD_private.h"
+#include "././LIB/STD_TYPES.h"
+#include "././LIB/BIT_MATH.h"
+#include "../../MCAL/DIO/DIO.h"
+#include "LCD_cfg.h"
+#include "LCD.h"
+#include "LCD_extrachar.h"
+#include "LCD_private.h"
 
 // #include <util/delay.h>
 #include <stdlib.h>

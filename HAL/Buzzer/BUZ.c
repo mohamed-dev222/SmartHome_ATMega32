@@ -7,7 +7,7 @@
  */
 
 #include "BUZ.h"
-#include "../../MCAL_/DIO/DIO.h"
+#include "../../MCAL/DIO/DIO.h"
 //#include <util/delay.h>
 
 /*==============================================================================

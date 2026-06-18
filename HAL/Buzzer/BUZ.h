@@ -11,9 +11,9 @@
 #ifndef BUZ_H_
 #define BUZ_H_
 
-#include "././LIP/STD_TYPES.h"
+#include "././LIB/STD_TYPES.h"
 
-#include "../../MCAL_/DIO/DIO.h"
+#include "../../MCAL/DIO/DIO.h"
 
 /*==============================================================================
  * Ports Identification Macros

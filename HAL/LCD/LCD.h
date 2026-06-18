@@ -11,8 +11,8 @@
 #ifndef CLCD_INTERFACE_H_
 #define CLCD_INTERFACE_H_
 
-#include "././LIP/STD_TYPES.h"
-#include "CLCD_cfg.h"
+#include "././LIB/STD_TYPES.h"
+#include "LCD_cfg.h"
 
 #if CLCD_MODE == 4
 #define FOUR_BITS 0x28 // 4 bits mode initialization

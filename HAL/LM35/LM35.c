@@ -10,11 +10,11 @@
  * Includes
  *============================================================================*/
 
-#include "././LIP/STD_TYPES.h"
-#include "././LIP/BIT_MATH.h"
+#include "././LIB/STD_TYPES.h"
+#include "././LIB/BIT_MATH.h"
 
-#include "../../MCAL_/DIO/DIO.h"
-#include "../../MCAL_/ADC/ADC.h"
+#include "../../MCAL/DIO/DIO.h"
+#include "../../MCAL/ADC/ADC.h"
 
 #include "LM35.h"
 #include "LM35_private.h"

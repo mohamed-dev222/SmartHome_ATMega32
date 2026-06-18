@@ -1,7 +1,7 @@
 
 #ifndef CLCD_EXTRACHAR_H_
 #define CLCD_EXTRACHAR_H_
-#include "././LIP/STD_TYPES.h"
+#include "././LIB/STD_TYPES.h"
 
 /*
 
